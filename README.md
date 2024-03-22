@@ -1,6 +1,6 @@
 # AutomationTest
 Automation Test using Selenium.  
-In automated testing, it's generally not recommended to explicitly code failing tests unless explicitly state so.
+Just A test to see how hard it is to use Selenium
 # Installation
 - Get [Selenium](https://www.selenium.dev/downloads/)
 - Download webdriver for the testing browser.
